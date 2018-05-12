@@ -1,0 +1,25 @@
+_repo: Tracts-on-the-Sabbath_45310
+_version: 0.1.0
+contributor:
+  publisher_contributor:
+    agent_name: American Sabbath Tract Society
+    alias: Society, American Sabbath Tract
+    gutenberg_agent_id: '43212'
+    url: http://www.gutenberg.org/2009/agents/43212
+covers:
+- cover_type: archival
+  image_path: 45310-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2014-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45310'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sabbath'
+- !lcc 'BV'
+title: Tracts on the Sabbath
+url: http://www.gutenberg.org/ebooks/45310
